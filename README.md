@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-I'm currently working on <br>Java, SpringBoot , Microservices , Rest APIs and Backend-driven applications<br>I'm looking to collaborate on<br>Open Source Java / Spring Boot projects and API development<br>I'm looking for help with<br>System Design , High-level Architecture and Open Source contributions<br>I'm currently learning<br>Microservices , System Design , DSA and Angular for Full-stack roles<br>I enjoy solving complex backend problems and optimizing APIs
+I'm currently working on <br>Java,DSA, SpringBoot , Microservices ,MongoDB, Rest APIs and Backend-driven applications<br>I'm looking to collaborate on<br>Open Source Java / Spring Boot projects and API development<br>I'm looking for help with<br>System Design , High-level Architecture and Open Source contributions<br>I'm currently learning<br>Microservices , System Design , DSA and Angular for Full-stack roles<br>I enjoy solving complex backend problems and optimizing APIs
 
 
 # 💻 Tech Stack:
